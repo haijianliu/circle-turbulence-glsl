@@ -6,4 +6,4 @@
 
 - DNA
 
-<img src="https://github.com/HaijianLiu/dna-glsl/blob/master/DNA%402x.gif" width="400">
+<img src="https://github.com/haijianliu/circle-turbulence-glsl/blob/master/DNA%402x.gif" width="400">
